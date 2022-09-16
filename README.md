@@ -1,6 +1,6 @@
 # AlphaNLayer
 
-Ürünler, Kategoriler ve Markalar ile ilgili CRUD işlemlerini yapan API. Async methodlarla çalışır ve API, Service, Repository Core katmanlarından oluşur.
+Ürünler, Kategoriler ve Markalar ile ilgili CRUD işlemlerini yapan API. Async methodlarla çalışır ve Custom Response döner. API, Service, Repository Core katmanlarından oluşur.
 
 
 1. .Net7
